@@ -1,4 +1,6 @@
-﻿List<Flight> AllFlights = new();
+﻿using CsvHelper;
+
+List<Flight> AllFlights = new();
 
 void MainMenu()
 {
