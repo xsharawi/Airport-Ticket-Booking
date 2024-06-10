@@ -1,5 +1,4 @@
-﻿
-List<Flight> AllFlights = new();
+﻿List<Flight> AllFlights = new();
 
 void MainMenu()
 {
